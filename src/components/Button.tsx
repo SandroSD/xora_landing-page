@@ -1,7 +1,7 @@
 import clsx from "clsx";
 import Marker from "./Marker";
 
-const CustomButton = ({
+const Button = ({
   icon,
   children,
   href,
@@ -61,4 +61,4 @@ const CustomButton = ({
   );
 };
 
-export default CustomButton;
+export default Button;
